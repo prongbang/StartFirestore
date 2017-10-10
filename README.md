@@ -70,8 +70,12 @@
 ![screenshot png](https://github.com/prongbang/images/blob/master/start-firestore-14.png?raw=true)
 
 
-## 15. Cloud Firestore
+## 15. Add the Cloud Firestore Android library to your app/build.gradle file:
 
-[Set up your development environment](https://firebase.google.com/docs/firestore/quickstart)
+```
+compile 'com.google.firebase:firebase-firestore:11.4.2'
+```
+
+## 16. [Set up your development environment](https://firebase.google.com/docs/firestore/quickstart)
 
 ## Enjoy!
